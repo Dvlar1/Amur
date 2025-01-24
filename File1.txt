@@ -1,6 +1,10 @@
 123
+<<<<<<< HEAD
 commit test
 test
+=======
+
+>>>>>>> 4c0a8dcb31ce05c550e7405a19d9aa4dcf910918
 456
 789.
 Add line
